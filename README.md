@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CPMF2023
+- 👀 I’m interested in becoming a solutions architect
+- 🌱 I’m currently learning cloud computing
+- 💞️ I’m looking to collaborate on building cloud solutions
+- 📫 How to reach me: kamo.mahlasela@yahoo.com
